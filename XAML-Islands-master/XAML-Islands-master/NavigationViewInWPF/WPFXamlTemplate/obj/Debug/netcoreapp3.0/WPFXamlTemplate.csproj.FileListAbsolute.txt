@@ -1,0 +1,130 @@
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\WPFXamlTemplate.exe
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\WPFXamlTemplate.deps.json
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\WPFXamlTemplate.runtimeconfig.json
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\WPFXamlTemplate.runtimeconfig.dev.json
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\WPFXamlTemplate.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\WPFXamlTemplate.pdb
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\Microsoft.Toolkit.Win32.UI.XamlHost.winmd
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\Microsoft.Toolkit.Win32.UI.XamlHost.xml
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\Microsoft.Toolkit.Win32.UI.XamlHost.Managed.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\Microsoft.Toolkit.Wpf.UI.Controls.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\Microsoft.Toolkit.Wpf.UI.XamlHost.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-arm64\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-arm64\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\debug\concrt140d_app.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\debug\msvcp140_1d_app.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\debug\msvcp140_2d_app.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\debug\msvcp140d_app.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\debug\vcamp140d_app.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\debug\vccorlib140d_app.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\debug\vcomp140d_app.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\debug\vcruntime140d_app.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\release\concrt140_app.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\release\msvcp140_1_app.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\release\msvcp140_2_app.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\release\msvcp140_app.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\release\vcamp140_app.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\release\vccorlib140_app.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\release\vcomp140_app.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\release\vcruntime140_app.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\debug\concrt140d_app.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\debug\msvcp140_1d_app.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\debug\msvcp140_2d_app.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\debug\msvcp140d_app.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\debug\vcamp140d_app.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\debug\vccorlib140d_app.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\debug\vcomp140d_app.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\debug\vcruntime140d_app.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\release\concrt140_app.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\release\msvcp140_1_app.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\release\msvcp140_2_app.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\release\msvcp140_app.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\release\vcamp140_app.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\release\vccorlib140_app.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\release\vcomp140_app.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\release\vcruntime140_app.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\obj\Debug\netcoreapp3.0\SettingsCtrl.g.cs
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\obj\Debug\netcoreapp3.0\GeneratedInternalTypeHelper.g.cs
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\obj\Debug\netcoreapp3.0\WPFXamlTemplate_MarkupCompile.cache
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\obj\Debug\netcoreapp3.0\WPFXamlTemplate_MarkupCompile.lref
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\obj\Debug\netcoreapp3.0\SettingsCtrl.baml
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\obj\Debug\netcoreapp3.0\WPFXamlTemplate.g.resources
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\obj\Debug\netcoreapp3.0\WPFXamlTemplate.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\obj\Debug\netcoreapp3.0\WPFXamlTemplate.AssemblyInfoInputs.cache
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\obj\Debug\netcoreapp3.0\WPFXamlTemplate.AssemblyInfo.cs
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\obj\Debug\netcoreapp3.0\WPFXamlTemplate.csproj.CopyComplete
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\obj\Debug\netcoreapp3.0\WPFXamlTemplate.dll
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\obj\Debug\netcoreapp3.0\WPFXamlTemplate.pdb
+C:\Users\ennis\Desktop\OUTPUT\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\obj\Debug\netcoreapp3.0\WPFXamlTemplate.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\WPFXamlTemplate.exe
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\WPFXamlTemplate.deps.json
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\WPFXamlTemplate.runtimeconfig.json
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\WPFXamlTemplate.runtimeconfig.dev.json
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\WPFXamlTemplate.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\WPFXamlTemplate.pdb
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\Microsoft.Toolkit.Win32.UI.XamlHost.winmd
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\Microsoft.Toolkit.Win32.UI.XamlHost.xml
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\Microsoft.Toolkit.Win32.UI.XamlHost.Managed.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\Microsoft.Toolkit.Wpf.UI.Controls.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\Microsoft.Toolkit.Wpf.UI.XamlHost.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-arm64\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-arm64\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\debug\concrt140d_app.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\debug\msvcp140_1d_app.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\debug\msvcp140_2d_app.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\debug\msvcp140d_app.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\debug\vcamp140d_app.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\debug\vccorlib140d_app.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\debug\vcomp140d_app.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\debug\vcruntime140d_app.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\release\concrt140_app.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\release\msvcp140_1_app.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\release\msvcp140_2_app.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\release\msvcp140_app.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\release\vcamp140_app.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\release\vccorlib140_app.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\release\vcomp140_app.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x64\native\release\vcruntime140_app.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\debug\concrt140d_app.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\debug\msvcp140_1d_app.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\debug\msvcp140_2d_app.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\debug\msvcp140d_app.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\debug\vcamp140d_app.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\debug\vccorlib140d_app.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\debug\vcomp140d_app.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\debug\vcruntime140d_app.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\release\concrt140_app.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\release\msvcp140_1_app.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\release\msvcp140_2_app.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\release\msvcp140_app.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\release\vcamp140_app.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\release\vccorlib140_app.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\release\vcomp140_app.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\bin\Debug\netcoreapp3.0\runtimes\win10-x86\native\release\vcruntime140_app.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\obj\Debug\netcoreapp3.0\WPFXamlTemplate.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\obj\Debug\netcoreapp3.0\SettingsCtrl.g.cs
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\obj\Debug\netcoreapp3.0\GeneratedInternalTypeHelper.g.cs
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\obj\Debug\netcoreapp3.0\WPFXamlTemplate_MarkupCompile.cache
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\obj\Debug\netcoreapp3.0\WPFXamlTemplate_MarkupCompile.lref
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\obj\Debug\netcoreapp3.0\SettingsCtrl.baml
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\obj\Debug\netcoreapp3.0\WPFXamlTemplate.g.resources
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\obj\Debug\netcoreapp3.0\WPFXamlTemplate.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\obj\Debug\netcoreapp3.0\WPFXamlTemplate.AssemblyInfoInputs.cache
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\obj\Debug\netcoreapp3.0\WPFXamlTemplate.AssemblyInfo.cs
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\obj\Debug\netcoreapp3.0\WPFXamlTemplate.csproj.CopyComplete
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\obj\Debug\netcoreapp3.0\WPFXamlTemplate.dll
+C:\Users\ennis\Desktop\OUTPUT\WPF Core Projects\XAML-Islands-master\XAML-Islands-master\NavigationViewInWPF\WPFXamlTemplate\obj\Debug\netcoreapp3.0\WPFXamlTemplate.pdb
